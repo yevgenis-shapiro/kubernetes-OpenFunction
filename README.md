@@ -20,7 +20,6 @@ OpenFunction is a cloud-native open source FaaS (Function as a Service) platform
 ✅ Flexible and easy-to-use events management framework
 ```
 
-## Example
 
 ### AWS
 ```
