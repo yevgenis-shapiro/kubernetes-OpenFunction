@@ -28,8 +28,8 @@ module "minio" {
   depends_on = [module.nginx]
 }
 
-module "velero" {
-  source = "./modules/velero"
+module "openfunction" {
+  source = "./modules/openfunction"
   depends_on = [module.minio]
 }
 
